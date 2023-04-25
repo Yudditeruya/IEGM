@@ -8,9 +8,9 @@
 var prefix = window.location.pathname.substr( 0, window.location.pathname.toLowerCase().lastIndexOf( "/extensions" ) + 1 );
 
 var config = {
-	host: "localhost",
-	prefix: "/www/IEGM/Grid/",
-	port: 81,
+	host: "painel.tce.ms.gov.br",
+	prefix: "/qmc/extensions/",
+	port: 80,
 	isSecure: false
 };
 //to avoid errors in workbench: you can remove this when you have added an app
