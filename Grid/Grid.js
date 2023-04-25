@@ -10,7 +10,7 @@ var prefix = window.location.pathname.substr( 0, window.location.pathname.toLowe
 var config = {
 	host: "painel.tce.ms.gov.br",
 	prefix: "/qmc/extensions/",
-	port: 80,
+	port: 443,
 	isSecure: false
 };
 //to avoid errors in workbench: you can remove this when you have added an app
