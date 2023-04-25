@@ -8,10 +8,10 @@
 var prefix = window.location.pathname.substr( 0, window.location.pathname.toLowerCase().lastIndexOf( "/extensions" ) + 1 );
 
 var config = {
-	host: localhost,
-	prefix: prefix,
-	port: 80,
-	isSecure: window.location.protocol === "https:"
+	host: "localhost",
+	prefix: "/www/IEGM/Grid/",
+	port: 81,
+	isSecure: false
 };
 //to avoid errors in workbench: you can remove this when you have added an app
 var app;
