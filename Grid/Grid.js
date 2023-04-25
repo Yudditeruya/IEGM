@@ -8,9 +8,9 @@
 var prefix = window.location.pathname.substr( 0, window.location.pathname.toLowerCase().lastIndexOf( "/extensions" ) + 1 );
 
 var config = {
-	host: window.location.hostname,
+	host: localhost,
 	prefix: prefix,
-	port: window.location.port,
+	port: 80,
 	isSecure: window.location.protocol === "https:"
 };
 //to avoid errors in workbench: you can remove this when you have added an app
