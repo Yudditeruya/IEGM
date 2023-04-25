@@ -1,0 +1,20 @@
+{
+    "dashboard": {
+        "qvfId": "Fake - BMG Capa.qvf"
+    },
+    "consignado": {
+        "qvfId": "Fake - BMG Consignado.qvf"
+    },
+    "cartoes": {
+        "qvfId": "Fake - BMG Cartões.qvf"
+    },
+    "creditoEmConta": {
+        "qvfId": "Fake - BMG CNC.qvf"
+    },
+    "bancoDigital": {
+        "qvfId": "Fake - BMG Banco Digital.qvf"
+    },
+    "seguros": {
+        "qvfId": "Fake - BMG Seguros.qvf"
+    }
+}

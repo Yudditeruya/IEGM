@@ -1,0 +1,43 @@
+/* ERROR PAGE  */
+.errorPage{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 300px;
+  }
+  
+  .errorPage .title{
+    text-align: center;
+    padding: 20px;
+    color: #182A59;
+    font-size: 22px;
+    font-family: "Roboto";
+    font-weight: 400;
+  }
+  
+  .errorPage .errorMessage{
+    text-align: center;
+    background-color: rgba(0,0,0,0.3);
+    padding: 50px;
+    color: white;
+    font-family: "Roboto";
+  }
+
+  .errorPage .errorButton {
+   width: 130px;
+   margin-top: 10px;
+   padding: 5px;
+   font-family: "Roboto" !important; 
+  }
+
+  @media(max-width: 500px) {
+      .errorPage .errorMessage, .errorPage .title {
+          padding: 10px;
+      }
+  }

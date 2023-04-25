@@ -1,0 +1,113 @@
+{
+    "saque": {
+        "kpiIds": {
+            "kpi1": "PmdL",
+            "kpi2": "RtMJW",
+            "kpi3": "AGYH",
+            "kpi4": "MusQpbE",
+            "kpi5": "HTtdJk",
+            "kpi6": "pyjFLp",
+            "kpi7": "PqmXT",
+            "kpi8": "zKAr",
+            "kpi9": "QjjBjC",
+            "kpi9title": "njnfqm",
+            "kpi10": "tHEUPPE",
+            "kpi10title": "JUxBjp"
+        },
+        "gauge": {
+            "firstMeasure": "qvpE",
+            "secondMeasure": "HdhsBAj",
+            "thirdMeasure": "nGmVjv"
+        },
+        "barChartToggle": {
+            "firstBarChartName": "Por mês",
+            "firstBarChartId": "26d4d8dc-3a90-4062-aea9-301a676ebae7",
+            "secondBarChartName": "Por dia",
+            "secondBarChartId": "cf2db008-5a18-4928-88a4-2932b95bf57c",
+            "activeBarChart": "26d4d8dc-3a90-4062-aea9-301a676ebae7"
+        },
+        "barChart": "98b91666-1ba7-4585-9b62-af638a337793",
+        "pieChart": "98b91666-1ba7-4585-9b62-af638a337793",
+        "donutChart": "pWxJDna",
+        "tables": {
+            "firstTableName": "Valores por grupo",
+            "firsTableId": "e7a98d8f-e61f-4b6c-8e37-d25c8af2bad5",
+            "secondTableName": "Valores por loja",
+            "secondTableId": "VERyJch",
+            "activeTable": "e7a98d8f-e61f-4b6c-8e37-d25c8af2bad5"
+        }
+    },
+    "compras": {
+        "kpiIds": {
+            "kpi1": "5bf8e5c2-a48c-44a2-bba4-0e1a4e9a8941",
+            "kpi2": "1bb5ca9b-36bb-4bbc-bb51-80630a9ac1bc",
+            "kpi3": "17faacfb-ed2a-4183-b274-e95b202c66e0",
+            "kpi4": "9e36b582-bf8f-4772-b3fc-98a3e27a8074",
+            "kpi5": "cb404b27-be5a-44d2-b011-a20fc138ad0b",
+            "kpi6": "0b7fa794-b180-46a9-bfa7-97785b09d7c8",
+            "kpi7": "b0d5dbbc-fd7f-4948-b8d4-0b10a5a8ae02",
+            "kpi8": "0eaf1afc-54ba-4c39-bb58-54d721aed70d",
+            "kpi8title": "a5a0b516-6c42-4562-9369-2d57bf248bba",
+            "kpi9": "16ee64e5-a619-4057-a3e6-06075e3519f3",
+            "kpi9title": "314b43d3-3856-45ca-9403-4c1a35b616bf"
+        },
+        "gauge": {
+            "firstMeasure": "696c059c-0f07-4966-a173-27639100e3a0",
+            "secondMeasure": "b57746a4-a47a-48d9-a443-83642a9c3ac7",
+            "thirdMeasure": "71a056b2-b1c9-4aa6-b4df-41e712b804af"
+        },
+        "barChartToggle": {
+            "firstBarChartName": "Por mês",
+            "firstBarChartId": "4b687adb-5fd3-4b40-a971-9939320b14f3",
+            "secondBarChartName": "Por dia",
+            "secondBarChartId": "962e1556-8e7f-4336-9344-1d9c445a2622",
+            "activeBarChart": "4b687adb-5fd3-4b40-a971-9939320b14f3"
+        },
+        "barChart": "b9478ece-b529-4027-8289-443d9ef15937",
+        "pieChart": "1cc607e4-741d-408c-adb7-2d0e4a445ced",
+        "tables": {
+            "firstTableName": "Valores por grupo",
+            "firsTableId": "93cbd274-a655-4464-b1f8-302c90018e7c",
+            "secondTableName": "Valores por loja",
+            "secondTableId": "1c4028bd-d1c0-42bb-bdef-5a09aab98881",
+            "activeTable": "93cbd274-a655-4464-b1f8-302c90018e7c"
+        }
+    },
+    "emissoes": {
+        "kpiIds": {
+            "kpi1": "fc43c093-ef9a-4d9a-879b-19360958bd6a",
+            "kpi2": "b839a312-bd0b-4562-a9b2-dd5137e308e1",
+            "kpi3": "3877bc7a-aff8-4828-91a5-9ebaa3b1a76c",
+            "kpi4": "b011a6a2-fd92-4554-b083-d947f89f6225",
+            "kpi5": "8dad212f-64a8-4915-83b6-1aed709cddb9",
+            "kpi6": "d0831fe6-66a9-4807-b777-694ec843008c",
+            "kpi7": "6a497095-1e92-448b-8fd0-d8b5b1b29434",
+            "kpi8": "d558bfba-122c-4555-b4fd-edd02fbf5841",
+            "kpi9": "ec7e5330-15ca-44be-b281-ee6c9605f2a4",
+            "kpi9title": "00db0ba9-5e37-4efd-b5e8-408d4431eacb",
+            "kpi10": "a994bdf7-7fb3-4d6c-9ad1-b55dc953b778",
+            "kpi10title": "72cd14a1-81d0-49fa-9a2c-b00d2f09e6a2"
+        },
+        "gauge": {
+            "firstMeasure": "5d665d81-016a-4522-9469-24f292fc32f6",
+            "secondMeasure": "06a353a8-6f08-4ed1-9b3f-9c47a69d0c8a",
+            "thirdMeasure": "0f4edafd-e1c4-4182-95c2-5e02981e1d01"
+        },
+        "barChartToggle": {
+            "firstBarChartName": "Por mês",
+            "firstBarChartId": "cae07317-26c2-44e2-be32-e9b1dcf7c991",
+            "secondBarChartName": "Por dia",
+            "secondBarChartId": "fa416170-ee63-40de-a5bf-35f15020b8c3",
+            "activeBarChart": "cae07317-26c2-44e2-be32-e9b1dcf7c991"
+        },
+        "barChart": "f3b61b47-98ac-45c2-b14e-7612c3da7290",
+        "pieChart": "edba5c5e-8bfb-4023-8316-97a791c7d671",
+        "tables": {
+            "firstTableName": "Valores por grupo",
+            "firsTableId": "8e113f08-f52d-4265-8c1e-33f459c16c90",
+            "secondTableName": "Valores por loja",
+            "secondTableId": "d3742b02-9b33-4eec-860f-84952343c0e4",
+            "activeTable": "8e113f08-f52d-4265-8c1e-33f459c16c90"
+        }
+    }
+}

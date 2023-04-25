@@ -1,0 +1,20 @@
+{
+    "dashboard": {
+        "qvfId": "fec10c3a-6db8-4c12-9158-a5034cbb827b"
+    },
+    "consignado": {
+        "qvfId": "54060ea1-b0df-4135-bacd-3781b2a5d584"
+    },
+    "cartoes": {
+        "qvfId": "242487dd-64e5-4359-9b4c-f9a9b6fc8fcc"
+    },
+    "creditoEmConta": {
+        "qvfId": "caedbf20-1052-4a59-b237-ed389830f3ce"
+    },
+    "bancoDigital": {
+        "qvfId": "a46f7dce-f95b-4856-92ff-385a9dbacfe2"
+    },
+    "seguros": {
+        "qvfId": "91631e0c-7c48-462a-8ce4-12aa4f6f89fc"
+    }
+}

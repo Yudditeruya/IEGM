@@ -1,0 +1,7 @@
+.content-section.card-seguros {
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 6px;
+    max-height: none;
+    justify-content: space-evenly;
+}

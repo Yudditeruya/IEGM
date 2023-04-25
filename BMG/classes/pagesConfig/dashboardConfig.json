@@ -1,0 +1,42 @@
+{
+    "consignado": {
+        "data": "mqhCmG",
+        "dataAtualizacao": "eMadP",
+        "primeiroKPI": "wLmHhrw",
+        "variacao": "wMRhJhK",
+        "segundoKPI": "KFKeU",
+        "graficoBarra": "nNERheS"
+    },
+    "cartoes": {
+        "data": "7515b0b3-0212-4e36-b02f-956389b49fef",
+        "dataAtualizacao": "1d8dcdc7-733b-4949-9b4e-898873fe98ef",
+        "primeiroKPI": "fce5b3a8-97bc-4bfe-a8a9-9d69b34f4d92",
+        "variacao": "ff11445b-4376-4091-b3ea-36c3407457c6",
+        "segundoKPI": "e25f1f3d-d8fa-466d-93f9-25af14580b11",
+        "graficoBarra": "01b441fa-2707-4227-bf08-68d1427196c0"
+    },
+    "creditoEmConta": {
+        "data": "5a40f3a4-6edf-4003-9b1c-74a6007b103d",
+        "dataAtualizacao": "fb7dc816-d53c-49a1-a292-2340aed94db1",
+        "primeiroKPI": "84c1e462-a794-4165-ab77-7c6515fffef9",
+        "variacao": "37fb57ce-39f2-46fb-972d-f68438156a27",
+        "segundoKPI": "dc0d24a2-9fa6-42c4-bb7c-a8aa6c932a64",
+        "graficoBarra": "c4091c77-8ebe-40ae-932a-89f65608d72a"
+    },
+    "seguros": {
+        "data": "1cd6f1e0-2b7e-43fd-95bf-84defe1ae2f8",
+        "dataAtualizacao": "448b7028-c180-4e8d-bce7-f41a80e25b7c",
+        "primeiroKPI": "c66e339c-27c6-404a-95ba-5ba97f806902",
+        "variacao": "5abffe49-c80a-4c13-9e17-7c1da8521c0c",
+        "segundoKPI": "69dfa9f9-43a9-4316-b265-69b1c6ef59a0",
+        "graficoBarra": "85507a62-4734-4e4f-a48a-52fd4d59385e"
+    },
+    "bancoDigital": {
+        "data": "3901c0a9-6e6a-4337-a761-3856393bf157",
+        "dataAtualizacao": "09983585-9819-4bb5-82f8-b04f3ade8a7e",
+        "primeiroKPI": "47612bcb-466a-4fdd-8ff3-1b7393867d91",
+        "variacao": "592a0334-01bd-452c-a6d8-e3c37c8acdef",
+        "segundoKPI": "ea642a02-1427-4f8e-9efc-a096eb35e66f",
+        "graficoBarra": "897a52d5-19af-4e02-b25c-7717466c3906"
+    }
+}

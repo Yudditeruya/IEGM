@@ -1,0 +1,36 @@
+/* MAPA DE DIGITAÇÃO  */
+.mapa-de-digitacao-card {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+    max-width: 343px;
+    align-items: flex-start; 
+}
+
+.mapa-de-digitacao-card .barchart-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 5px 0px 20px;
+     box-shadow: inset 0 -1px 0 0 #E7E7E8;
+}
+
+.mapa-de-digitacao-card .top-kpi-container {
+    display: flex;
+    width: 100%;
+    align-items: flex-end;
+    margin-bottom: 5px;
+}
+
+.mapa-de-digitacao-card .top-kpi-container .cl-kpi:first-child {
+    box-shadow: none;
+    padding: 0;
+}
+
+.mapa-de-digitacao-card .top-kpi-container .cl-kpi:last-child {
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 7px;
+    margin-left: 5px;
+}

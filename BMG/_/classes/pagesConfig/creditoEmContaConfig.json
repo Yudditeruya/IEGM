@@ -1,0 +1,56 @@
+{
+    "approval": {
+        "kpiIds": {
+            "kpi1": "MEkNdHq",
+            "kpi2": "pVKEpHp",
+            "kpi3": "twBdNM",
+            "kpi4": "KAfQBj",
+            "kpi5": "UgtDSH",
+            "kpi6": "efPmTa",
+            "kpi7": "fRyrcZj",
+            "kpi8": "xnMbUV",
+            "kpi9": "cmNt",
+            "kpi10": "bpHXb",
+            "kpi11": "nTyXPjX",
+            "kpi11title": "JXrMQ",
+            "kpi12": "htt",
+            "kpi12title": "aXpSPT"
+        },
+        "gauge": {
+            "firstMeasure": "dEmVggX",
+            "secondMeasure": "VusBK",
+            "thirdMeasure": "WzRLjME"
+        },
+        "lineChart": "CEpUj",
+        "pieChart": "PPxPx",
+        "donutChart": "QWjb",
+        "tables": {
+            "firstTableName": "Values by State",
+            "firsTableId": "RPgnzwp",
+            "secondTableName": "Values by City",
+            "secondTableId": "eQEyPXv",
+            "activeTable": "RPgnzwp"
+        }
+    },
+    "typingMap": {
+        "kpiIds": {
+            "kpi1": "VtuYdRj",
+            "kpi2": "bJZt",
+            "kpi3": "VRmvJW",
+            "barChart1": "ujAtNLq",
+            "kpi4": "CUwxf",
+            "kpi5": "pCjeAQp",
+            "kpi6": "RbmzqE",
+            "kpi7": "hXNAWr",
+            "kpi8": "UPuap",
+            "barChart2": "TeUZnPn",
+            "kpi9": "natRmu",
+            "kpi10": "erN",
+            "kpi11": "puSxQx",
+            "kpi12": "ULkP",
+            "kpi13": "FexJSuj",
+            "kpi14": "kS",
+            "kpi15": "vjMUm"
+        }
+    }
+}

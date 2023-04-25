@@ -1,0 +1,77 @@
+.kpi-row-title {
+    color: #F58220;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 12px;
+    text-transform: uppercase;
+    display: flex;
+}
+
+.digital-bank-kpi-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.digital-bank-card-header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 20px;
+    /* margin-bottom: 5px; */
+}
+
+.digital-bank-card-header img {
+    margin-right: 10px;
+}
+
+.card-header-title {
+    font-weight: 600;
+    font-size: 16px;
+    color: #7E868A;
+}
+
+.card-header-subtitle {
+    font-weight: 600;
+    font-size: 11px;
+    color: #7E868A;
+}
+.chart-card-header-title {
+    font-weight: 500;
+    font-size: 10px;
+    color: #F58220;
+    margin-bottom: 5px;
+}
+
+.chart-card-header-subtitle {
+    font-weight: 600;
+    font-size: 11px;
+    color: #F58220;
+}
+
+.content-section.chart {
+    /* border-radius: 6px; */
+    max-height: 400px;
+    justify-content: space-evenly;
+    
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 18px;
+}
+
+.content-section.card {
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 6px;
+    max-height: 400px;
+    justify-content: space-evenly;
+
+    padding: 18px;
+}
+
+.digital-bank-card-container {
+     display: flex;
+     flex-wrap: wrap;
+     width: 100%
+}

@@ -1,0 +1,36 @@
+.bmg-merged-table {
+    margin: 0 auto;
+}
+
+.bmg-merged-table th {
+    color: #F58220;
+    font-family: Ubuntu;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 12px;
+    vertical-align: middle;
+    text-align: right;
+}
+
+.bmg-merged-table tr th:first-of-type {
+    text-align: left;
+}
+
+.bmg-merged-table tr td {
+    color: #7E868A;
+    font-family: Ubuntu;
+    font-size: 11px;
+    line-height: 14px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.bmg-merged-table tr td:first-of-type {
+    text-align: left;
+}
+
+.bmg-merged-table tr {
+    height: 40px;
+    box-shadow: inset 0 -1px 0 0 #E7E7E8;
+}

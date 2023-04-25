@@ -1,0 +1,17 @@
+{
+    "type": "mashup",
+    "name": "Business Insight",
+    "description": "",
+    "version": "1.0.0",
+    "author": "Cluster",
+    "homepage": "",
+    "keywords": "qlik-sense, visualization, mashup",
+    "license": "",
+    "repository": "",
+    "preview": "res/img/preview.png",
+    "src": "/extensions/Business-Insight-Modal/res/img/preview.png",
+    "mainUrl": "/extensions/Business-Insight-Modal/index.html",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    }
+}

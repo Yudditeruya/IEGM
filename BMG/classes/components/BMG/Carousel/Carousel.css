@@ -1,0 +1,66 @@
+.bmg-carousel .swiper-wrapper {
+    width: 295px;
+}
+
+.bmg-carousel.swiper-container {
+    height: 580px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.bmg-carousel .swiper-slide-active .date-container,
+.bmg-carousel .swiper-slide:hover .date-container {
+    opacity: 1;
+}
+
+.bmg-carousel .date-container {
+    opacity: 0;
+    transition: all 300ms ease;
+    margin-bottom: 10px;
+}
+
+.bmg-carousel .swiper-pagination-bullet {
+    background: #fff;
+    opacity: .3;
+    transition: all 100ms ease;;
+}
+
+.bmg-carousel .swiper-pagination-bullet-active {
+    background: #ffffff;
+    opacity: 1;
+}
+
+
+.bmg-carousel .barchart-title {
+    color: #F58220;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 12px;
+    text-transform: uppercase;
+}
+
+.bmg-carousel .carousel-main-kpi {
+    display: flex;
+    flex-direction: column;
+    box-shadow: inset 0 -1px 0 0  #E7E7E8;
+    height: 90px
+}
+
+.bmg-carousel .carousel-main-kpi .cl-kpi:first-child {
+    margin-bottom: 5px;
+}
+
+.bmg-carousel .carousel-main-kpi .cl-kpi:last-child {
+    flex-direction: row-reverse;
+    align-self: flex-start;
+    margin: 0;
+}
+
+.bmg-carousel .carousel-mid-kpi {
+    display: flex;
+    flex-direction: column;
+    box-shadow: inset 0 -1px 0 0  #E7E7E8;
+    height: 56px;
+    margin-top: 16px !important;
+}

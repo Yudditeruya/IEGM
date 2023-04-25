@@ -1,0 +1,38 @@
+.cl-sidebar {
+    position: fixed;
+    top: 60px;
+    bottom: 0;
+    width: 200px;
+    transform: translateX(0px);
+    transition:.6s cubic-bezier(1, 0, .32, 1);
+    background: black;
+    z-index: 99;
+}
+
+.cl-sidebar.opened {
+    transform: translate(310px);
+}
+
+.cl-sidebar .cl-sidebar-menu__list {
+    padding: 10px;
+}
+
+.cl-sidebar .cl-sidebar-menu__item {
+    display: flex;
+}
+
+.cl-sidebar .cl-sidebar-menu__item a {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    padding: 7px;
+    color: white;
+}
+
+.cl-sidebar .cl-sidebar-menu__item a:hover {
+    color: #d1d1d1;
+}
+
+.cl-sidebar .cl-sidebar-menu__item a.active {
+    color: orange;
+}

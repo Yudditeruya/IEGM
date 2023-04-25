@@ -1,0 +1,11 @@
+.cl-card {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0 4px 16px 0 rgba(77, 77, 79, 0.1);
+
+    /* oq ja tinha e comentei  */
+    /* justify-content: center; */
+}

@@ -1,0 +1,12 @@
+App.js;
+index.html;
+./classes/pagesConfig/bancoDigitalConfig.json;
+./classes/pagesConfig/cartoesConfig.json;
+./classes/pagesConfig/creditoEmContaConfig.json;
+./classes/pagesConfig/dashboardConfig.json;
+./classes/pagesConfig/emprestimoConsignadoConfig.json;
+./classes/pagesConfig/segurosConfig.json;
+main.css;
+BI-Producao.qext;
+prod-config.json;
+manifest.json;

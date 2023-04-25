@@ -1,0 +1,115 @@
+{
+    "cartao": {
+        "kpiIds": {
+            "kpi1": "AwjP",
+            "kpi2": "hmUvUg",
+            "donutChart": "CfYKQ",
+            "kpi3": "JejmNvm",
+            "kpi4": "VnPMZ",
+            "kpi5": "uMmRN",
+            "kpi6": "LsdQCvy",
+            "kpi7": "arBCrS",
+            "barChart1": "JPYrhpC"
+        },
+        "gauge": {
+            "firstMeasure": "yQymGuf",
+            "secondMeasure": "LrQLPDs",
+            "thirdMeasure": "sSHVbPZ"
+        },
+        "barChartToggle": {
+            "firstBarChartName": "Por mês",
+            "firstBarChartId": "mSPpP",
+            "secondBarChartName": "Por dia",
+            "secondBarChartId": "cnHp",
+            "activeBarChart": "mSPpP"
+        },
+        "barChart2": "JgWDt",
+        "tables": {
+            "firstTableName": "Valores por grupo",
+            "firsTableId": "FwbMzq",
+            "secondTableName": "Valores por loja",
+            "secondTableId": "pybEF",
+            "activeTable": "FwbMzq"
+        }
+    },
+    "creditoNaConta": {
+        "kpiIds": {
+            "kpi1": "e6cca862-0839-4dcb-bf64-dad04679dc1f",
+            "kpi2": "19c3ab99-6d5a-46b2-868f-0033d1723d34",
+            "donutChart": "e6ee54a4-1587-42a7-88f1-a426d3a60a35",
+            "kpi3": "NpRyxau",
+            "kpi4": "8ac55491-7aac-4aea-909a-8621ba43c6d4",
+            "kpi5": "a14f08db-dcc5-4096-8218-04147c3c7a8f",
+            "kpi6": "9b292728-4f94-4290-b468-eb3e53c12d12",
+            "kpi7": "ef850ab6-8e8a-4c3f-961b-8ed81a2ece15",
+            "barChart1": "038bf5a8-b6ab-4dc6-b1c3-8f5c8d6701df"
+        },
+        "gauge": {
+            "firstMeasure": "ed42096d-d7b3-472c-9171-9c231cda8845",
+            "secondMeasure": "a5928ad1-d497-498b-bf9e-9f518c8dd9d5",
+            "thirdMeasure": "a6552dc7-fc7d-4e39-9198-15631acce38d"
+        },
+        "barChartToggle": {
+            "firstBarChartName": "Por mês",
+            "firstBarChartId": "da694563-0975-40a0-9ed6-97b926acc3b9",
+            "secondBarChartName": "Por dia",
+            "secondBarChartId": "226537ba-6052-463f-bf50-079b84c4b295",
+            "activeBarChart": "da694563-0975-40a0-9ed6-97b926acc3b9"
+        },
+        "barChart2": "404f5cbb-b63a-4c05-9b50-68138f2de006",
+        "tables": {
+            "firstTableName": "Valores por grupo",
+            "firsTableId": "7096b79c-daba-46ba-a7b0-168e8fca35b7",
+            "secondTableName": "Valores por loja",
+            "secondTableId": "850a3cb4-f2e2-462d-916d-e942fe8c2716",
+            "activeTable": "7096b79c-daba-46ba-a7b0-168e8fca35b7"
+        }
+    },
+    "standAlone": {
+        "kpiIds": {
+            "kpi1": "84cdf4ba-c56e-458c-80aa-565b3876a84b",
+            "kpi2": "5ec4f530-68b8-45af-a77e-ec87c0d6143d",
+            "kpi3": "8781997b-ef56-44da-9d90-18837604dc60"
+        },
+        "gauge": {
+            "firstMeasure": "7dc04c99-b203-4cb0-a9a3-c4588ce5927e",
+            "secondMeasure": "2ab576f0-f74d-4acd-acc8-71d90574831b",
+            "thirdMeasure": "f8b44dca-f6b7-4e5c-b988-10582dd88dd3"
+        },
+        "barChartToggle": {
+            "firstBarChartName": "Por mês",
+            "firstBarChartId": "3b5882bb-1474-45d6-945c-030f9fa8ad03",
+            "secondBarChartName": "Por dia",
+            "secondBarChartId": "6f82caf1-0cbd-4871-b48d-3a0345b4e1b2",
+            "activeBarChart": "3b5882bb-1474-45d6-945c-030f9fa8ad03"
+        },
+        "barChart2": "fc93e6d8-44c8-4b64-a5f6-005534d466e7",
+        "tables": {
+            "firstTableName": "Valores por grupo",
+            "firsTableId": "8db6beb8-0e65-4688-a8c2-c4c576d780c7",
+            "secondTableName": "Valores por loja",
+            "secondTableId": "f7b67b12-2123-49b6-b2de-9c192cb0ba05",
+            "activeTable": "8db6beb8-0e65-4688-a8c2-c4c576d780c7"
+        }
+    },
+    "renovacaoHistorico": {
+        "kpiIds": {
+            "kpi1title": "awHNtF",
+            "kpi1": "edae1afe-5c58-40d1-ac7c-d7d8084e5b32",
+            "kpi2": "890afb01-0e4c-4e1a-ae3d-5df6a23fadc7",
+            "kpi3title": "uGssEG",
+            "kpi3": "5288844d-13ff-4770-a9d2-b141bba5c3d8",
+            "kpi4": "61a962db-f6f6-4001-8f19-a636d9da9c38",
+            "kpi5title": "cQtfw",
+            "kpi5": "9c1d70be-0bc3-4dbf-835d-d885ec394f5e",
+            "kpi6": "cRuPqtg",
+            "kpi7title": "UjbWt",
+            "kpi7": "XPafe",
+            "kpi8": "JZCNV",
+            "kpi9title": "JujSm",
+            "kpi9": "0e2ee4d6-ccfe-4e76-8cf4-865b5550ae3e",
+            "kpi10": "ecfda0ab-fa3c-4fab-b2d3-d1f0cad9a227"
+        },
+        "barChart": "e993eb3c-ebd8-47e5-bc33-73e7bef4e7fc"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "kpiIds": {
+        "kpi1": "vZeuqQv",
+        "kpi2": "MRHp",
+        "kpi3": "mAXFrn",
+        "kpi4": "PKMMXaA",
+        "kpi5": "chWyr",
+        "kpi6": "cWxpJxp",
+        "kpi7": "TzDP",
+        "kpi8": "YrNbuc",
+        "kpi9": "ugBrEW",
+        "kpi9title": "PzjkY",
+        "kpi10": "SdmDJX",
+        "kpi10title": "GbymCm"
+    },
+    "gauge": {
+        "firstMeasure": "amhVCvu",
+        "secondMeasure": "GmJmbpP",
+        "thirdMeasure": "FpwaaD"
+    },
+    "barChartToggle": {
+        "firstBarChartName": "Per month",
+        "firstBarChartId": "qxVdps",
+        "secondBarChartName": "Per day",
+        "secondBarChartId": "BMRkBn",
+        "activeBarChart": "qxVdps"
+    },
+    "barChart": "FVVZrQ",
+    "pieChart": "vNaEwsc",
+    "tables": {
+        "firstTableName": "Sales by State",
+        "firsTableId": "JqwTmdB",
+        "secondTableName": "Sales by City",
+        "secondTableId": "LeYtU",
+        "activeTable": "JqwTmdB"
+    }
+}
